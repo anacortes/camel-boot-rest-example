@@ -1,0 +1,4 @@
+
+spring.main.sources: com.examples.MyRouter
+
+my-example.name: Tom
